@@ -1,1 +1,1 @@
-# Curriculo
+https://projetosthiago.github.io/Curriculo/
